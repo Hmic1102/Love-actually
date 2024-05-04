@@ -1,0 +1,17 @@
+.ft-page {
+    background-position: center center;
+    background-size: cover;
+}
+
+.page-1 {
+    background-image: url(./img/birth.jpg);
+}
+.page-2 {
+    background-image: url(./img/birth.jpg);
+}
+.page-3 {
+    background-image: url(https://images.unsplash.com/photo-1457419655743-2e0acc6b5122?auto=format&fit=crop&w=1920&q=80);
+}
+.page-4 {
+    background-image: url(https://images.unsplash.com/photo-1457200246108-d9d4abc27953?auto=format&fit=crop&w=1920&q=80);
+}
