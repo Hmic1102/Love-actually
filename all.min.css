@@ -661,7 +661,59 @@ body,button {
     gap: 10px; 
 }
 .page-3 {
-	background-color:#c1b287
+	padding:0;
+	text-align:center
+}
+.page-3 h2 {
+	height:5%;
+	padding-top:3%;
+	margin:0
+}
+.page-3 button {
+	width: 250px;
+	height: 100px;
+	margin: 20px;
+}
+.page-3 button a {
+	font-size: 16px;
+}
+.page-3 img {
+	width: 300px; 
+	height: auto; 
+}
+.page-3 .image-container {
+	margin-top: 60px;
+	display: flex; 
+	justify-content: center; 
+	gap: 30px; 
+}
+.page-4 {
+	
+	padding:0;
+	text-align:center
+}
+.page-4 h2 {
+	height:5%;
+	padding-top:3%;
+	margin:0
+}
+.page-4 button {
+	width: 250px;
+	height: 100px;
+	margin: 20px;
+}
+.page-4 button a {
+	font-size: 16px;
+}
+.page-4 img {
+	width: 300px; 
+	height: auto; 
+}
+.page-4 .image-container {
+	margin-top: 60px;
+	display: flex; 
+	justify-content: center; 
+	gap: 30px; 
 }
 .page-5 {
 	
